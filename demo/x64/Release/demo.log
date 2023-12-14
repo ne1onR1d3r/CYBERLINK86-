@@ -1,0 +1,9 @@
+﻿  demo.cpp
+H:\C++\demo\demo\demo.cpp(10,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+H:\C++\demo\demo\demo.cpp(165,20): warning C4305: инициализация: усечение из "double" в "float"
+H:\C++\demo\demo\demo.cpp(173,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  demo.vcxproj -> H:\C++\demo\x64\Release\demo.exe

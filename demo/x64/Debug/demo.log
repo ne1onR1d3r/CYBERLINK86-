@@ -1,0 +1,5 @@
+﻿  demo.cpp
+H:\C++\demo\demo\demo.cpp(10,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+H:\C++\demo\demo\demo.cpp(165,20): warning C4305: инициализация: усечение из "double" в "float"
+H:\C++\demo\demo\demo.cpp(173,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  demo.vcxproj -> H:\C++\demo\x64\Debug\demo.exe
