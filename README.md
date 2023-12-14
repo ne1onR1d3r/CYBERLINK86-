@@ -1,4 +1,4 @@
 # CYBERLINK86-
 Console Game
-Run CYBERLINK86++.exe 
+Run demo.sln and press F5
 Controls: WASD
